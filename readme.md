@@ -1,0 +1,1 @@
+This is a simple transfer learning demo based on VGG16 and EfficientNetB0. The dataset consists of 20 bird species, which is provided by CSCI 552 (USC Viterbi).
